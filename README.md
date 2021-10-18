@@ -10,9 +10,9 @@ mayconreis221@gmail.com <br />
 maycon-r-6ab988115
 </a>
 <br/>
-### Learning... :books:
-Graduando em Análise e Desenvolvimento de Sistemas <br/>
-E participando do Bootcamp de Java na Digital Innovation One :sunglasses:
+### Learning... :livros:
+Estudante em Análise e Desenvolvimento de Sistemas <br/>
+E participando de Bootcamps de Front-End
 <br />
 ### Ferramentas e Linguagens: 
 <img align="left" alt="Debian" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/debian/debian.png" />
