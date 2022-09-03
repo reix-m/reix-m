@@ -12,7 +12,7 @@ maycon-r-6ab988115</a>
 
 ### Learning... :books:
 Estudante em Análise e Desenvolvimento de Sistemas <br>
-E participando de Bootcamps de Front-End
+E fazendo diversos cursos livres com foco em desenvolvimento FullStack com JS
 <br />
 ### Ferramentas e Linguagens: 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
