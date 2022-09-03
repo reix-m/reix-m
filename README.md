@@ -10,7 +10,7 @@ Se quiser falar comigo, segue meus contatos: <br>
 maycon-r-6ab988115</a>
 <br/>
 
-### Learning... :livros:
+### Learning... :books:
 Estudante em Análise e Desenvolvimento de Sistemas <br>
 E participando de Bootcamps de Front-End
 <br />
