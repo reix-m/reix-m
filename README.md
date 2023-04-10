@@ -1,6 +1,4 @@
-# Olá, eu sou o Maycon Reis <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
-
-<hr />
+# Olá, eu me chamo Maycon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
 *Você pode me encontrar nas redes abaixo*
 
@@ -8,14 +6,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-rjesus//)](https://www.linkedin.com/in/maycon-rjesus//)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayconreis221@gmail.com)](mailto:mayconreis221@gmail.com)
 
+## Sobre mim
+Sou estudante de Análise e desenvolvimento de sistemas na Impacta, atualmente estou cursando o último semestre.
 
-<hr />
+Estou trabalhando no Grupo Multi como Suporte Pleno. Entre as minhas funções está desenvolver melhorias e correções de bugs para os sistemas web.
+
+No meu tempo livre eu curto asistir séries, jogar video-game com meus irmãos e fazer caminhada.
 
 ## Learning... :books:
 ### [Estudante de Análise e Desenvolvimento de Sistemas](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas)
 ### [Realizando o bootcamp Potência Tech Angular Developer - Powered by iFood](https://www.dio.me/en)
-
-<hr />
 
 ## Estatísticas
 
