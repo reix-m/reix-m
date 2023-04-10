@@ -1,23 +1,38 @@
 # Olá, eu sou o Maycon Reis <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
-### Eu sou programador <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25px"> <br>
+<hr />
 
-Se quiser falar comigo, segue meus contatos: <br>
-:email: mayconreis221@gmail.com
+*Você pode me encontrar nas redes abaixo*
 
-<a href="https://www.linkedin.com/in/maycon-r-6ab988115/">
-<img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="15px">
-maycon-r-6ab988115</a>
-<br/>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayconreis)](https://github.com/mayconreis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-rjesus//)](https://www.linkedin.com/in/maycon-rjesus//)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayconreis221@gmail.com)](mailto:mayconreis221@gmail.com)
 
-### Learning... :books:
-Estudante em Análise e Desenvolvimento de Sistemas <br>
-E fazendo diversos cursos livres com foco em desenvolvimento Backend com JS
-<br />
-### Ferramentas e Linguagens: 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br><br>
+
+<hr />
+
+## Learning... :books:
+### [Estudante de Análise e Desenvolvimento de Sistemas](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas)
+### [Realizando o bootcamp Potência Tech Angular Developer - Powered by iFood](https://www.dio.me/en)
+
+<hr />
+
+## Estatísticas
+
+[![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconreis&show_icons=true&theme=transparent)](https://github.com/mayconreis)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconreis&show_icons=true&theme=transparent&layout=compact)](https://github.com/mayconreis)
+
+![Snake animation](https://github.com/mayconreis/mayconreis/blob/output/github-contribution-grid-snake.svg)
+
+
+## Ferramentas e Linguagens: 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
