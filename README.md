@@ -11,7 +11,7 @@ Sou estudante de Análise e desenvolvimento de sistemas na Impacta, atualmente e
 
 Estou trabalhando no Grupo Multi como Suporte Pleno. Entre as minhas funções está desenvolver melhorias e correções de bugs para os sistemas web.
 
-No meu tempo livre eu curto asistir séries, jogar video-game com meus irmãos e fazer caminhada.
+No meu tempo livre eu curto assistir séries, jogar video-game com meus irmãos e fazer caminhada.
 
 ## Learning... :books:
 ### [Estudante de Análise e Desenvolvimento de Sistemas](https://www.impacta.edu.br/graduacoes/analise-e-desenvolvimento-de-sistemas)
