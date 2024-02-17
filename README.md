@@ -11,9 +11,9 @@
 ## Sobre mim
 Sou formado em Análise e desenvolvimento de sistemas na Impacta.
 
-Estou trabalhando no Grupo Multi como Suporte Sênior. Entre as minhas funções está desenvolver melhorias e correções de bugs para os sistemas web utilizndo JS, PHP e Go.
+Sou Desenvolvedor Fullstack no Grupo Multi. Atualmente trabalho principalmente com as linguagens JS, PHP e Go.
 
-No meu tempo livre eu curto assistir séries, jogar video-game com meus irmãos e fazer caminhada.
+No meu tempo livre eu curto assistir séries, sair com os amigos, jogar video-game, aprender algo novo sobre tecnologia ou colocar alguma idéia louca em prática.
 
 ---
 
