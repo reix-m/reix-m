@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayconreis)](https://github.com/mayconreis)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-rjesus//)](https://www.linkedin.com/in/maycon-rjesus//)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mayconreis221@gmail.com)](mailto:mayconreis221@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maycon.r.dejesus@gmail.com)](mailto:maycon.r.dejesus@gmail.com)
 
 ---
 
