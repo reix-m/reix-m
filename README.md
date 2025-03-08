@@ -2,16 +2,16 @@
 
 *Você pode me encontrar nas redes abaixo*
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayconreis)](https://github.com/mayconreis)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayconreis)](https://github.com/reix-m)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-rjesus//)](https://www.linkedin.com/in/maycon-rjesus//)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:maycon.r.dejesus@gmail.com)](mailto:maycon.r.dejesus@gmail.com)
+[![Proton](https://shields.io/badge/Proton-003B5C?style=for-the-badge&logo=proton&logoColor=white)](mailto:reix-m@pm.me)
 
 ---
 
 ## Sobre mim
 Sou formado em Análise e desenvolvimento de sistemas na Impacta.
 
-Sou Desenvolvedor Fullstack no Grupo Multi. Atualmente trabalho principalmente com as linguagens JS, PHP e Go.
+Trabalho como Desenvolvedor Backend Pleno no Grupo Multi. Atualmente trabalho principalmente com as linguagens JS, PHP e Go.
 
 No meu tempo livre eu curto assistir séries, sair com os amigos, jogar video-game, aprender algo novo sobre tecnologia ou colocar alguma idéia louca em prática.
 
@@ -30,10 +30,10 @@ Abaixo poderá encontrar alguns livros que estou lendo, ou tenho expectativas de
 
 ## Estatísticas
 
-[![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconreis&show_icons=true&theme=transparent)](https://github.com/mayconreis)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconreis&show_icons=true&theme=transparent&layout=compact)](https://github.com/mayconreis)
+[![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=reix-m&show_icons=true&theme=transparent)](https://github.com/reix-m)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reix-m&show_icons=true&theme=transparent&layout=compact)](https://github.com/reix-m)
 
-![Snake animation](https://github.com/mayconreis/mayconreis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/reix-m/reix-m/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
