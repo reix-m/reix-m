@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mayconreis)](https://github.com/reix-m)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-rjesus//)](https://www.linkedin.com/in/maycon-rjesus//)
-[![Proton](https://shields.io/badge/Proton-003B5C?style=for-the-badge&logo=proton&logoColor=white)](mailto:reix-m@pm.me)
+[![Proton](https://shields.io/badge/Email-003B5C?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:reix-m@pm.me)
 
 ---
 
