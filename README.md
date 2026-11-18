@@ -9,11 +9,11 @@
 ---
 
 ## Sobre mim
-Sou formado em Análise e desenvolvimento de sistemas na Impacta.
+Sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta e atuo como Desenvolvedor Backend.
 
-Trabalho como Desenvolvedor Backend Pleno no Grupo Multi. Atualmente trabalho principalmente com as linguagens JS, PHP e Go.
+Atualmente, trabalho principalmente com JavaScript, PHP e Go, desenvolvendo soluções e buscando constantemente aprimorar meus conhecimentos e habilidades em tecnologia.
 
-No meu tempo livre eu curto assistir séries, sair com os amigos, jogar video-game, aprender algo novo sobre tecnologia ou colocar alguma idéia louca em prática.
+Fora do ambiente de desenvolvimento, gosto de assistir a séries, sair com os amigos, jogar videogame e explorar novas tecnologias. Também estou sempre em busca de aprender algo novo ou tirar do papel alguma ideia maluca que surgiu pelo caminho.
 
 ---
 
