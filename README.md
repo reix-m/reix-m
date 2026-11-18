@@ -17,17 +17,6 @@ No meu tempo livre eu curto assistir séries, sair com os amigos, jogar video-ga
 
 ---
 
-## Learning... :books:
-No momento meus estudos estão focados nas linguagens C, C++ e Python.
-Abaixo poderá encontrar alguns livros que estou lendo, ou tenho expectativas de ler.
-
-#### [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
-#### [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
-#### [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching, 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-#### [Algorithms in C++ Part 5: Graph Algorithms, 3rd Edition](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
-
----
-
 ## Estatísticas
 
 [![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=reix-m&show_icons=true&theme=transparent)](https://github.com/reix-m)
